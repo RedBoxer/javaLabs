@@ -1,0 +1,60 @@
+Elevator 0 set
+Elevator 1 set
+Processing message
+Processing message
+Elevator 0 on 2
+Elevator 1 on 2
+Elevator 0 on 3
+Elevator 1 on 3
+Elevator 0 on 4
+Elevator 1 on 4
+Processing message
+Elevator 0 on 5
+Elevator 1 on 5
+Elevator 0 on 6
+Elevator 1 on 4
+Elevator 0 on 7
+Elevator 1 on 3
+Elevator 0 on 8
+Elevator 1 on 2
+Elevator 0 on 9
+Processing message
+Elevator 1 on 1
+Processing message
+Elevator 0 on 8
+Elevator 1 on 2
+Elevator 0 on 7
+Elevator 1 on 3
+Elevator 0 on 6
+Elevator 1 on 4
+Elevator 0 on 5
+Elevator 1 on 5
+Elevator 1 on 6
+Elevator 0 on 4
+Elevator 0 on 5
+Elevator 1 on 7
+Elevator 0 on 6
+Processing message
+Elevator 1 on 8
+Elevator 0 on 5
+Elevator 1 on 9
+Processing message
+Elevator 0 on 4
+Elevator 1 on 8
+Elevator 0 on 3
+Elevator 1 on 7
+Elevator 0 on 2
+Elevator 1 on 6
+Elevator 0 on 1
+Elevator 1 on 5
+Elevator 0 on 2
+Elevator 1 on 4
+Elevator 1 on 3
+Elevator 0 on 3
+Elevator 1 on 2
+Elevator 0 on 4
+Processing message
+Elevator 1 on 1
+Elevator 0 on 5
+Elevator 0 on 6
+
