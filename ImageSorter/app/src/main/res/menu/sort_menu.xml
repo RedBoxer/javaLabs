@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/avgRedSort"
+        android:title="avgRedSort" />
+    <item
+        android:id="@+id/avgBlueSort"
+        android:title="avgBlueSort" />
+    <item
+        android:id="@+id/avgGreenSort"
+        android:title="avgGreenSort" />
+    <item
+        android:id="@+id/avgBrightnessSort"
+        android:title="avgBrightnessSort" />
+    <item
+        android:id="@+id/sizeSort"
+        android:title="sizeSort" />
+</menu>
